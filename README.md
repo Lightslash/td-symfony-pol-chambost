@@ -1,4 +1,4 @@
-Symfony Standard Edition
+Rendu du TD utilisant Symfony Standard Edition
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
